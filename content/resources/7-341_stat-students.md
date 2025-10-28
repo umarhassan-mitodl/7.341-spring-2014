@@ -4,8 +4,6 @@ description: Image indicating course enrollment numbers.
 file: /courses/7-341-designer-immunity-lessons-in-engineering-the-immune-system-spring-2014/1010bd2f714f151da30e37add27d597b_7-341_stat-students.png
 file_size: 2955
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

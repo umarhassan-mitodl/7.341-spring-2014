@@ -56,8 +56,7 @@
     "website": "7-341-designer-immunity-lessons-in-engineering-the-immune-system-spring-2014"
   },
   "course_title": "Designer Immunity: Lessons in Engineering the Immune System",
-  "hide_download": true,
-  "course_description": "The immune system is one of the most complex and powerful of human body systems. It is highly dynamic and flexible, yet strictly regulates homeostasis and protects our bodies from both foreign and self-derived challenges. As basic understanding of immune function is growing, researchers are rapidly designing clever and diverse strategies to manipulate immunology to improve human health. In this course, we will explore important advances rooted in engineering principles to harness the power of the immune system, focusing on how engineering has fueled or inspired research concerning (1) vaccines, (2) immunotherapies, and (3) systems immunology.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "course_description": "The immune system is one of the most complex and powerful of human body systems. It is highly dynamic and flexible, yet strictly regulates homeostasis and protects our bodies from both foreign and self-derived challenges. As basic understanding of immune function is growing, researchers are rapidly designing clever and diverse strategies to manipulate immunology to improve human health. In this course, we will explore important advances rooted in engineering principles to harness the power of the immune system, focusing on how engineering has fueled or inspired research concerning (1) vaccines, (2) immunotherapies, and (3) systems immunology.\n\nThis course is one of many {{% resource_link \"e7371e9a-4295-4e1f-8a31-0c667df95a49\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
   "department_numbers": [
     "7"
   ],
@@ -67,7 +66,6 @@
     "content": "df963e11-6823-9008-b3fa-d0f43beb6574",
     "website": "7-341-designer-immunity-lessons-in-engineering-the-immune-system-spring-2014"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Instructor Insights"
   ],
